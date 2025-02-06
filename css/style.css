@@ -124,7 +124,6 @@ body {
   justify-content: center;
   padding-top: 10px;
   padding-bottom: 10px;
-  border-bottom: 1px solid #3c4750;
 }
 .top .other .link {
   font-size: 17px;
@@ -164,7 +163,6 @@ body {
   font-weight: 700;
   text-align: center;
   color: #262D33;
-  border-top: 1px solid rgba(75, 81, 87, 0.3098039216);
 }
 .content .block .text {
   font-size: 21px;

@@ -76,7 +76,7 @@ body {
 
 .bottom {
   display: flex;
-  padding: 20px 113px;
+  padding: 20px 113px 10px;
   background-color: #262D33;
   flex-direction: column;
   align-items: center;
@@ -99,12 +99,35 @@ body {
   padding-right: 113px;
 }
 
+.styleNu {
+  gap: 511px;
+}
+
+.styleFA {
+  gap: 514px;
+}
+
+.styleDT {
+  gap: 420px;
+}
+
+.styleDp {
+  gap: 489px;
+}
+
+.styleAl {
+  gap: 484px;
+}
+
+.styleML {
+  gap: 466px;
+}
+
 .top .head {
   padding-top: 79px;
   padding-bottom: 10px;
   background-color: #fff;
   display: flex;
-  gap: 443px;
   align-items: center;
   font-family: "Roboto Slab", serif;
   border-bottom: 2px solid #E5E5E5;
@@ -185,6 +208,7 @@ body {
 
 .content {
   display: flex;
+  justify-content: space-around;
   padding-top: 30px;
   background-color: #fff;
 }
@@ -209,6 +233,6 @@ body {
 
 .content2 {
   display: flex;
-  justify-content: flex-end;
+  justify-content: space-around;
   background-color: #E5E5E5;
-}/*# sourceMappingURL=styleDR.css.map */
+}/*# sourceMappingURL=styleML.css.map */

@@ -124,7 +124,7 @@ body {
 }
 
 .top .head {
-  padding-top: 99px;
+  padding-top: 104px;
   padding-bottom: 10px;
   background-color: #fff;
   display: flex;
@@ -167,7 +167,7 @@ body {
   border-bottom: 1px solid #3c4750;
 }
 .top .other .link {
-  font-size: 17px;
+  font-size: 20px;
   color: #fff;
   font-weight: 600;
   line-height: 1.5;
@@ -175,6 +175,7 @@ body {
 }
 .top .other .link:hover {
   transform: translate(-4px, -5px);
+  text-shadow: 0px 0px 20px rgba(217, 218, 219, 0.6);
 }
 .top .other .left-side {
   display: flex;
@@ -183,12 +184,13 @@ body {
 .top .other .Home {
   display: flex;
   font-weight: 900;
-  font-size: 24px;
+  font-size: 27px;
   color: #fff;
   transition: all 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55);
 }
 .top .other .Home:hover {
   transform: scale(1.2, 1.2);
+  text-shadow: 0px 0px 20px rgba(217, 218, 219, 0.6);
 }
 .top .other .right-side {
   display: flex;

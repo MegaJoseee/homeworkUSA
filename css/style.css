@@ -84,7 +84,7 @@ body {
 }
 
 .top .head {
-  padding-top: 79px;
+  padding-top: 99px;
   padding-bottom: 10px;
   background-color: #fff;
   display: flex;
@@ -122,8 +122,8 @@ body {
   align-items: center;
   gap: 60px;
   justify-content: center;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .top .other .link {
   font-size: 17px;
@@ -134,6 +134,7 @@ body {
 }
 .top .other .link:hover {
   transform: translate(-4px, -5px);
+  box-shadow: 2px 3px 8px 0px rgba(217, 218, 219, 0.3);
 }
 .top .other .left-side {
   display: flex;
@@ -148,6 +149,7 @@ body {
 }
 .top .other .Home:hover {
   transform: scale(1.2, 1.2);
+  box-shadow: 2px rgba(217, 218, 219, 0.3);
 }
 .top .other .right-side {
   display: flex;
